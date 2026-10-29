@@ -1,0 +1,6 @@
+{
+  "name": "GL12 Studios — Catálogo Interativo de Sites",
+  "description": "Catálogo digital interativo premium de planos de criação de sites: Essencial, Extra e Deluxe da GL12 Studios com demonstrações visuais completas e interativas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
